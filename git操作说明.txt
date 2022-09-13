@@ -1,0 +1,20 @@
+ping github.com  查看传输情况
+
+第一步：现在网页端建立一个git工程
+第二步：使用github克隆工程到目标文件夹
+第三步：编写代码（git status 查看文件状态；git add —. 增加文件; git commit -a -m "update" 提交文件；git log 查看修改日志；git reset -hard 编号  回到指定保存文件（防止改错代码））
+
+Push和Pull操作
+git pull
+
+
+one ：
+本地没有ReadMe文件，那么就在本地生成一个：
+
+git pull --rebase origin master     本地生成ReadMe文件
+git push origin master
+
+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
+
+
+克隆代码操作：git clone （将http改为git地址）
